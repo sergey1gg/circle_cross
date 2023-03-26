@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/circle_cross/static/css/main.2d7e2460.css",
-    "main.js": "/circle_cross/static/js/main.3824a361.js",
-    "index.html": "/circle_cross/index.html",
-    "main.2d7e2460.css.map": "/circle_cross/static/css/main.2d7e2460.css.map",
-    "main.3824a361.js.map": "/circle_cross/static/js/main.3824a361.js.map"
+    "main.css": "/static/css/main.2d7e2460.css",
+    "main.js": "/static/js/main.3824a361.js",
+    "index.html": "/index.html",
+    "main.2d7e2460.css.map": "/static/css/main.2d7e2460.css.map",
+    "main.3824a361.js.map": "/static/js/main.3824a361.js.map"
   },
   "entrypoints": [
     "static/css/main.2d7e2460.css",
